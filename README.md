@@ -1,1 +1,1 @@
-# Weather-Widget
+# Weather Widget using Open Weather Map - API

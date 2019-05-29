@@ -1,0 +1,54 @@
+.fcst, .climate{
+    margin: auto;
+	background-image: url('https://s1.twnmm.com/images/en_ca/icons/wxicons_large/1.png');
+	background-repeat: no-repeat;
+	background-color : rgba(25,25,40,0.95);
+    border: none;
+    transition-duration: 500ms;
+}
+.upper-border{
+    padding-top: 6%;
+    border-top: 0.5px solid rgba(240, 240, 240, 0.5);
+    border-radius: 30%;
+}
+.climate p, .fcst p, .click{
+    text-align: center;
+    margin: 0px auto;
+    color: white;
+    background-color: transparent;
+    -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none;
+}
+.fcst:hover{
+    background-color: rgba(25,25,40,0.85);
+}
+.click{
+    position: absolute;
+    cursor: pointer;
+    text-align: center;
+    margin: 0px;
+    border: 1px solid rgba(255, 255, 255, 0.75);
+    transition-duration: 500ms;
+}
+.click:hover{
+    background-color: white;
+    color: #191928f2;
+}
+.selected{
+    border-color: white;
+    background-color: rgba(255, 255, 255, 0.9);
+    color: #191928f2;
+}
+.drop .dropdown-toggle::after, .dropright .dropdown-toggle::after{
+    border-width: 0;
+}
+.w-60 {
+    width: 60%!important;
+}
+.w-40 {
+    width: 40%!important;
+}
