@@ -12,7 +12,7 @@ This app requires to include these CDN libraries: `jquery`, `bootstrap`, `fontaw
 
 * The app gets the current (climate) information and 4-days weather forecast with 3-hour time steps. 
 
-* User can change the app settings; API-KEY, city name, or time-zone by clicking on the "wrench" icon that located on the top-left corner.
+* User can change the app settings; `API-KEY`, `city name`, or `time-zone` by clicking on the `wrench` icon that located on the top-left corner.
 
 ## Screenshot of Usage:
 * Screenshot of the app:
