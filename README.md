@@ -21,7 +21,7 @@ This app requires to include these CDN libraries: `jquery`, `bootstrap`, `fontaw
 
 * Screenshot of app setting:
 
-  ![a Screenshot of app settings](./assets/images/setting.png)
+  ![a Screenshot of app settings](./assets/images/settings.png)
 
 ## Try it:
 
