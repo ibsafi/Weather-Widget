@@ -10,7 +10,9 @@ This app requires to include these CDN libraries: `jquery`, `bootstrap`, `fontaw
 
 * The app runs by opening the `index.html` in the web-browser, then the user can allow the application to access the user's current location to better weather information.
 
-* The app gets the current (climate) information and 4-days weather forecast with 3-hour time steps. 
+* The app presents the current weather icons and information with brief description  and 4-days weather forecast over 3-hour time resolution. 
+
+* The app gives the ability to navigate through 4-day weather forecast, refresh the information, and changing the temperature units between `celsius` and `fahrenheit`.
 
 * User can change the app settings; `API-KEY`, `city name`, or `time-zone` by clicking on the `wrench` icon that located on the top-left corner.
 
